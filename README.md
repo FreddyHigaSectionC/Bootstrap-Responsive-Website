@@ -25,6 +25,11 @@ The "More Information" section is divided into three subsections: Help and Infor
 
 - Footer: Contains links to social networks and copyright text.
 
+## Design Choices
+The event is aimed at young people and adults between 20 and 40 years old. Only the color crimson, combined with black and lead, was used because the website 
+contains many images and could cause visual fatigue for the user. The Anton font was chosen because it is bold and impactful. The background is white to minimize 
+distractions and allow the user to focus on the website's content.
+
 
 
 
